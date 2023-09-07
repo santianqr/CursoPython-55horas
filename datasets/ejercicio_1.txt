@@ -1,0 +1,4 @@
+Su nombre es: Santi
+Su apellido es: Quintero
+Su edad es: 23
+Su color favorito es: azul
